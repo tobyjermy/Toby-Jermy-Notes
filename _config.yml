@@ -1,0 +1,17 @@
+title: Toby's Maths Notes
+description: University module notes — Spring 2026
+baseurl: "/Toby-Jermy-Notes" # set to "/repo-name" if not using a custom domain
+url: "" # set to your GitHub Pages URL
+
+markdown: kramdown
+kramdown:
+  math_engine: null # We use MathJax instead
+  syntax_highlighter: rouge
+  input: GFM
+
+highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
