@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% include mathjax.html %}
+</head>
+<body>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="site-title">📐 {{ site.title }}</a>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/ma32023/' | relative_url }}">Bayesian</a>
+        <a href="{{ '/ma32024/' | relative_url }}">Time Series</a>
+        <a href="{{ '/ma32048/' | relative_url }}">Discrete Prob</a>
+        <a href="{{ '/ma32061/' | relative_url }}">Measure Theory</a>
+        <a href="{{ '/ma32068/' | relative_url }}">Prob & Finance</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="container">
+      Toby's Maths Notes &mdash; Spring 2026
+    </div>
+  </footer>
+
+</body>
+</html>
