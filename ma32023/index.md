@@ -9,17 +9,17 @@ title: "MA32023 — Bayesian Statistics"
 
 Prior & posterior distributions, conjugate families, MCMC methods, and hierarchical models.
 
+**Schedule:** Odd weeks: 2× lectures. Even weeks: 1× lecture (Tue) + 1× problem class (Thu).
+
 ## Lecture Notes
 
 <ul class="lecture-list">
   <li>
-    <a href="{{ '/ma32023/lecture-01' | relative_url }}">Lecture 1 — Introduction to Bayesian Inference</a>
-    <span class="date">Week 1</span>
+    <a href="{{ '/ma32023/week1-lec1' | relative_url }}">Lecture 1 — Bayesian Foundations</a>
+    <span class="date">Week 1 (Tue)</span>
   </li>
-  <!-- Add more lectures here as:
   <li>
-    <a href="{{ '/ma32023/lecture-02' | relative_url }}">Lecture 2 — Title</a>
-    <span class="date">Week X</span>
+    <a href="{{ '/ma32023/week1-lec2' | relative_url }}">Lecture 2 — Posteriors, Credible Intervals & HDR</a>
+    <span class="date">Week 1 (Thu)</span>
   </li>
-  -->
 </ul>
