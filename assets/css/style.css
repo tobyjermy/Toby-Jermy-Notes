@@ -62,13 +62,20 @@ nav.site-nav .site-title {
   color: var(--neon);
   text-decoration: none;
   letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+nav.site-nav .nav-links {
+  display: flex;
+  gap: 1.25rem;
+  white-space: nowrap;
 }
 
 nav.site-nav .nav-links a {
   color: var(--text-muted);
   text-decoration: none;
-  margin-left: 1.5rem;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
   transition: color 0.2s;
 }
 
@@ -309,5 +316,7 @@ footer {
   body { font-size: 15px; }
   h1 { font-size: 1.6rem; }
   .module-grid { grid-template-columns: 1fr; }
-  nav.site-nav .nav-links a { margin-left: 1rem; }
+  nav.site-nav .container { flex-wrap: wrap; gap: 0.5rem; }
+  nav.site-nav .nav-links { gap: 0.75rem; }
+  nav.site-nav .nav-links a { font-size: 0.78rem; }
 }
