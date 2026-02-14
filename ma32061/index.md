@@ -9,11 +9,17 @@ title: "MA32061 — Measure Theory & Integration"
 
 σ-algebras, Lebesgue measure, measurable functions, and convergence theorems.
 
+**Office Hours:** 6W 1.13 — Tuesday 12:00–13:00. Homework: Biweekly; starred questions.
+
 ## Lecture Notes
 
 <ul class="lecture-list">
   <li>
-    <a href="{{ '/ma32061/lecture-01' | relative_url }}">Lecture 1 — σ-Algebras and Measurable Spaces</a>
-    <span class="date">Week 1</span>
+    <a href="{{ '/ma32061/week1-lec1' | relative_url }}">Lecture 1 — Motivation, Vitali Set & Outer Measure</a>
+    <span class="date">Week 1 (Tue)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32061/week2-lec2' | relative_url }}">Lecture 2 — σ-Algebras, Borel Sets & Measures</a>
+    <span class="date">Week 2 (Tue)</span>
   </li>
 </ul>
