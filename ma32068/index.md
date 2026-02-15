@@ -20,4 +20,12 @@ Binomial model, risk-neutral pricing, Black–Scholes, and martingales in financ
     <a href="{{ '/ma32068/week1-lec2' | relative_url }}">Lecture 2 — Portfolios, Self-Financing & 𝓛ᵖ Spaces</a>
     <span class="date">Week 1 (Fri)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32068/week2-lec3' | relative_url }}">Lecture 3 — Conditional Expectation & The Binary Model</a>
+    <span class="date">Week 2 (Thu)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32068/week2-lec4' | relative_url }}">Lecture 4 — Pricing for N=1 & Hedging Portfolios</a>
+    <span class="date">Week 2 (Fri)</span>
+  </li>
 </ul>
