@@ -22,4 +22,12 @@ Prior & posterior distributions, conjugate families, MCMC methods, and hierarchi
     <a href="{{ '/ma32023/week1-lec2' | relative_url }}">Lecture 2 — Posteriors, Credible Intervals & HDR</a>
     <span class="date">Week 1 (Thu)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32023/week2-lec3' | relative_url }}">Lecture 3 — Posterior Predictive Distribution & Sequential Updating</a>
+    <span class="date">Week 2 (Tue)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32023/week2-problems' | relative_url }}">Problem Class 1 — Beta-Binomial Posterior & Mice Genetics</a>
+    <span class="date">Week 2 (Thu)</span>
+  </li>
 </ul>
