@@ -22,4 +22,8 @@ Random graphs, Markov chains, generating functions, and branching processes.
     <a href="{{ '/ma32048/week1-lec2' | relative_url }}">Lecture 2 — Trees, Cayley's Formula & Asymptotics</a>
     <span class="date">Week 2 (Tue)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32048/week2-problems' | relative_url }}">Problem Class 1 — Paths, Cycles, Factorial Bounds & Spanning Trees</a>
+    <span class="date">Week 2 (Fri)</span>
+  </li>
 </ul>
