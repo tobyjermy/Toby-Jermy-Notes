@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% include mathjax.html %}
@@ -33,6 +34,9 @@
       Toby's Maths Notes &mdash; Spring 2026
     </div>
   </footer>
+
+  <!-- instant.page: prefetches links on hover for near-instant navigation -->
+  <script src="https://cdn.jsdelivr.net/npm/instant.page@5/instantpage.min.js" type="module" defer></script>
 
 </body>
 </html>
