@@ -1,4 +1,4 @@
-<!-- MathJax 3 for LaTeX rendering -->
+<!-- MathJax 3 for LaTeX rendering (CHTML output — faster than SVG) -->
 <script>
   MathJax = {
     tex: {
@@ -7,14 +7,21 @@
       processEscapes: true,
       tags: 'ams'
     },
-    svg: {
-      fontCache: 'global'
+    chtml: {
+      fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2'
     },
     options: {
       renderActions: {
         addMenu: []
-      }
+      },
+      enableEnrichment: false,
+      enableComplexity: false,
+      enableExplorer: false
+    },
+    startup: {
+      typeset: true
     }
   };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" as="script">
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
