@@ -28,4 +28,16 @@ AR, MA, ARMA processes, spectral analysis, stationarity, and spatial models.
     <a href="{{ '/ma32024/week1-problems' | relative_url }}">Problem Class 1</a>
     <span class="date">Week 2 (Fri)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32024/week2-lec4' | relative_url }}">Lecture 4 — Estimation, Linear Filters & Trend Removal</a>
+    <span class="date">Week 2 (Thu)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week2-problems' | relative_url }}">Problem Class 2 — Finite Differences & Weak Stationarity</a>
+    <span class="date">Week 2 (Fri)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week3-lab' | relative_url }}">Lab 2 — Stationarity in R</a>
+    <span class="date">Week 3 (Mon)</span>
+  </li>
 </ul>
