@@ -28,4 +28,8 @@ Binomial model, risk-neutral pricing, Black–Scholes, and martingales in financ
     <a href="{{ '/ma32068/week2-lec4' | relative_url }}">Lecture 4 — Pricing for N=1 & Hedging Portfolios</a>
     <span class="date">Week 2 (Fri)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32068/week3-lec5' | relative_url }}">Lecture 5 — Risk-Neutral Pricing & Extension to N Periods</a>
+    <span class="date">Week 3 (Thu)</span>
+  </li>
 </ul>
