@@ -22,4 +22,8 @@ title: "MA32061 — Measure Theory & Integration"
     <a href="{{ '/ma32061/week2-lec2' | relative_url }}">Lecture 2 — σ-Algebras, Borel Sets & Measures</a>
     <span class="date">Week 2 (Tue)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32061/week3-lec3' | relative_url }}">Lecture 3 — Properties of Measures, Null Sets & Completion</a>
+    <span class="date">Week 3 (Tue)</span>
+  </li>
 </ul>
