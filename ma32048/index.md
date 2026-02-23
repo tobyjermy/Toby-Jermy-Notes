@@ -26,4 +26,12 @@ Random graphs, Markov chains, generating functions, and branching processes.
     <a href="{{ '/ma32048/week2-problems' | relative_url }}">Problem Class 1 — Paths, Cycles, Factorial Bounds & Spanning Trees</a>
     <span class="date">Week 2 (Fri)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32048/week3-lec3' | relative_url }}">Lecture 3 — Branching Processes & Cliques</a>
+    <span class="date">Week 3 (Tue)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32048/week3-lec4' | relative_url }}">Lecture 4 — Threshold Functions & Moment Methods</a>
+    <span class="date">Week 3 (Fri)</span>
+  </li>
 </ul>
