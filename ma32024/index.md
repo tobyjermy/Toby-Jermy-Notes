@@ -40,4 +40,24 @@ AR, MA, ARMA processes, spectral analysis, stationarity, and spatial models.
     <a href="{{ '/ma32024/week3-lab' | relative_url }}">Lab 2 — Stationarity in R</a>
     <span class="date">Week 3 (Mon)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32024/week3-lec5' | relative_url }}">Lecture 5 — Seasonality, Backward-Shift Operator &amp; the MA(q) Process</a>
+    <span class="date">Week 3 (Tue)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week3-lec6' | relative_url }}">Lecture 6 — The Autoregressive Process AR(p)</a>
+    <span class="date">Week 3 (Thu)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week3-lec7' | relative_url }}">Lecture 7 — The ARMA Process: Invertibility &amp; Causality</a>
+    <span class="date">Week 3 (Fri)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week4-lec8' | relative_url }}">Lecture 8 — The ARIMA Model &amp; Partial Autocorrelation</a>
+    <span class="date">Week 4 (Mon)</span>
+  </li>
+  <li>
+    <a href="{{ '/ma32024/week4-lec9' | relative_url }}">Lecture 9 — Box-Jenkins Methodology &amp; Parameter Estimation</a>
+    <span class="date">Week 4 (Tue)</span>
+  </li>
 </ul>

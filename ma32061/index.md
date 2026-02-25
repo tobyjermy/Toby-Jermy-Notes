@@ -26,4 +26,8 @@ title: "MA32061 — Measure Theory & Integration"
     <a href="{{ '/ma32061/week3-lec3' | relative_url }}">Lecture 3 — Properties of Measures, Null Sets & Completion</a>
     <span class="date">Week 3 (Tue)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32061/week4-lec4' | relative_url }}">Lecture 4 — Outer Measures, Carathéodory's Lemma & Premeasures</a>
+    <span class="date">Week 4 (Tue)</span>
+  </li>
 </ul>
