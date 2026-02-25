@@ -38,7 +38,7 @@ The Lebesgue outer measure also satisfies:
 
 **Remarks:**
 
-1. $\emptyset, X$ are $\mu^*$-measurable.
+1. $\emptyset$, $X$ are $\mu^*$-measurable.
 2. $A$ is $\mu^*$-measurable iff $A^c = X \setminus A$ is $\mu^*$-measurable.
 3. If $A, E \subseteq X$: since $E = (E \cap A) \cup (E \cap A^c)$, we have $\mu^*(E) \leq \mu^*(E \cap A) + \mu^*(E \cap A^c)$ by subadditivity. So $A$ is $\mu^*$-measurable iff
 $$\forall E \subseteq X, \quad \mu^*(E) \geq \mu^*(E \cap A) + \mu^*(E \cap A^c).$$
