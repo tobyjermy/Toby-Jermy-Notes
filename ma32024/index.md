@@ -60,4 +60,8 @@ AR, MA, ARMA processes, spectral analysis, stationarity, and spatial models.
     <a href="{{ '/ma32024/week4-lec9' | relative_url }}">Lecture 9 — Box-Jenkins Methodology &amp; Parameter Estimation</a>
     <span class="date">Week 4 (Tue)</span>
   </li>
+  <li>
+    <a href="{{ '/ma32024/week4-problems' | relative_url }}">Problem Class 3 — ARMA(1,1) ACVF &amp; MA(1) Invertibility</a>
+    <span class="date">Week 4 (Fri)</span>
+  </li>
 </ul>
